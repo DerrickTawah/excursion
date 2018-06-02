@@ -9,21 +9,21 @@ h2 {
   color: white;
 }
 
-.discover h1{
+.discover h1 {
   font-weight: normal;
   font-size: 50px;
 }
-.guide h2{
-  font-weight: 300px;
+.guide h2 {
+  font-weight: 300;
   font-size: 42px;
 }
 
-.guide p{
+.guide p {
   font-size: 21px;
   color: gray;
 }
 
-.download-link{
+.download-link {
   color: Aquamarine;
   font-size: 16px;
 }
