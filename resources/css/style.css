@@ -1,4 +1,4 @@
-* {
+body {
   font-family: verdana;
   background-color: black;
   text-align: center;
@@ -28,7 +28,7 @@ h2 {
   font-size: 16px;
 }
 
-#footer !important{
-  text-align: right;
+#footer {
+  text-align: right !important;
   color: gray;
 }
